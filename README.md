@@ -3,7 +3,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://alexisnavarromoreno.github.io/)
+- [Mi Portfolio Profesional](https://alexisnavarromoreno.github.io/)
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img

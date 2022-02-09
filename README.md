@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alexis Navarro Moreno</h1>
-<h3 align="center">A passionate software developer from Spain</h3>
+<h1 align="center">👋 Alexis Navarro Moreno</h1>
+<h3 align="center">Desarrollador de Software</h3>
 
 
 ## Más sobre mí
@@ -14,7 +14,7 @@ Soy desarrollador de software con conocimientos sobre:
 ## 🔗 Links
 - [Mi Portfolio Profesional](https://alexisnavarromoreno.github.io/)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Habilidades:</h3>
 
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">

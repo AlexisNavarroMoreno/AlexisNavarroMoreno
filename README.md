@@ -10,6 +10,7 @@ Soy desarrollador de software con conocimientos sobre:
 - Programación de aplicaciones para Android
 - Desarrollo de interfaces gráficas.
 
+
 ## 🔗 Links
 - [Mi Portfolio Profesional](https://alexisnavarromoreno.github.io/)
 
@@ -113,3 +114,6 @@ Soy desarrollador de software con conocimientos sobre:
     />
   </a>
 </p>
+
+##E-mail 💌
+- alexisNM.1990@gmail.com

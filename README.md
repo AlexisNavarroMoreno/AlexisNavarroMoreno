@@ -115,5 +115,5 @@ Soy desarrollador de software con conocimientos sobre:
   </a>
 </p>
 
-##E-mail 💌
+## E-mail 💌
 - alexisNM.1990@gmail.com

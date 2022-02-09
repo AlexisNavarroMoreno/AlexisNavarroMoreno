@@ -4,7 +4,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 ## Más sobre mí
-# Soy desarrollador de software con conocimientos sobre: - Lenguajes de programación: Java, Python, Kotlin, - Bases de Datos Mysql, Postgresql y MongoDB -HTML y CSS - Programación de aplicaciones para Android - Desarrollo de interfaces gráficas.
+Soy desarrollador de software con conocimientos sobre: - Lenguajes de programación: Java, Python, Kotlin, - Bases de Datos Mysql, Postgresql y MongoDB -HTML y CSS - Programación de aplicaciones para Android - Desarrollo de interfaces gráficas.
 
 ## 🔗 Links
 - [Mi Portfolio Profesional](https://alexisnavarromoreno.github.io/)

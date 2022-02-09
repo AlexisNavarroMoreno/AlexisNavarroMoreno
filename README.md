@@ -2,8 +2,14 @@
 <h3 align="center">A passionate software developer from Spain</h3>
 
 <h3 align="left">Languages and Tools:</h3>
+
+## Más sobre mí
+# Soy desarrollador de software con conocimientos sobre: - Lenguajes de programación: Java, Python, Kotlin, - Bases de Datos Mysql, Postgresql y MongoDB -HTML y CSS - Programación de aplicaciones para Android - Desarrollo de interfaces gráficas.
+
 ## 🔗 Links
 - [Mi Portfolio Profesional](https://alexisnavarromoreno.github.io/)
+
+
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img
